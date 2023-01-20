@@ -2,7 +2,7 @@ import React from 'react'
 
 const contact = () => {
   return (
-    <div>Ponovljeno  </div>
+    <div>Ponovljeno i dodato u test grani </div>
   )
 }
 
